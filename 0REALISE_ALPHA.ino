@@ -5,6 +5,8 @@
 
 TaskHandle_t Task1;
 
+// ;)
+
 int32_t dataFromSend[WIGHT * 32] = {0}; // То что выводится на панель сейчас
 int32_t BufferData[WIGHT * 32] = {0}; // То что должно вывестись на панель в итоге
 
